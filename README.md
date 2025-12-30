@@ -9,11 +9,12 @@ In this repository, I will keep some notes I have taken while going through the 
 - 👕 **Chapter 4 Notebook**: Softmax regression with the Fashion-MNIST dataset
 - 🏠 **Chapter 5 Notebook**: Multilayer perceptron for Kaggle House Price dataset
 - 👚 **Chapter 6 Notebook**: LeNet with the Fashion-MNIST dataset
-- 🎽 **Chapter 6 Notebook**: AlexNet, VGG, NiN, GoogLeNet, LeNet with Batch Normalization, ResNet and DenseNet implementations with the Fashion-MNIST Dataset.
+- 🎽 **Chapter 7 Notebook**: AlexNet, VGG, NiN, GoogLeNet, LeNet with Batch Normalization, ResNet and DenseNet implementations with the Fashion-MNIST Dataset.
 ---
 
 ## 🚀 Usage
 You can either visualize the notebooks here on Github, and run them in Google Colab or locally.
+
 
 
 
